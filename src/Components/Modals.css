@@ -1,0 +1,38 @@
+.dialbox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:  100vh;
+    width: 100vw;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+
+    
+}
+
+
+.dbox{
+    background-color: tomato;
+    height: 360px;
+    width: 500px;
+}
+
+/* .dbox button{
+    padding: 20px 17px;
+    background-color: aqua;
+} */
+
+.dbox input{
+    height: 50px;
+}
+
+.btn{
+    font-size: 35px;
+color: white;
+    background-color: green;
+    width: 50px;
+    border-radius: 100%;
+    
+}
